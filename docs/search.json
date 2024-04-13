@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LaTeX",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#pas-latex-seminar",
+    "href": "index.html#pas-latex-seminar",
+    "title": "LaTeX Seminar for Department Faculty Members",
+    "section": "PAS LaTeX Seminar",
+    "text": "PAS LaTeX Seminar\n📆 May 2024, 10.00 am - 1.00 pm EAT\n🏨 Physical\n🏡 Workshop website"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "LaTeX Seminar for Department Faculty Members",
+    "section": "Summary",
+    "text": "Summary\nThis seminar will provide Faculty Members at the Department of Pure and Applied Sciences with the required skills to typset documents and exams in LaTeX software."
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "LaTeX Seminar for Department Faculty Members",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\n\nUnderstand LaTEX syntax, commands, and structure.\nLearn how to format documents effectively using LaTeX including adjusting:\n\nMargins\nFonts\nSpacing\nHeaders\nFooters\nTables\n\nLearn how to use LaTeX to accurately render mathematical equations\nLearn how to manage citations and References\nLearn how to create Beamer Slides for presentations"
+  },
+  {
+    "objectID": "index.html#further-reading",
+    "href": "index.html#further-reading",
+    "title": "LaTeX Seminar for Department Faculty Members",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nThe not so short introduction to LaTex\nComprehensive Tex archive Network\nTex Exchange Forum"
+  },
+  {
+    "objectID": "index.html#facilitator",
+    "href": "index.html#facilitator",
+    "title": "LaTeX Seminar for Department Faculty Members",
+    "section": "Facilitator",
+    "text": "Facilitator\n Dr. Mutua Kilai is a Lecturer of Statistics at the Department of Pure and Applied Sciences at Kirinyaga University. He is passionate about Statistics and loves story telling using data."
+  },
+  {
+    "objectID": "requirements.html",
+    "href": "requirements.html",
+    "title": "Requirements for the Seminar",
+    "section": "",
+    "text": "A great part of this seminar will be conducted in Overleaf Environment. This will ensure that we are having the latest and updated packages. It is also beneficial for collaboration work.\nPlease create an account\nThe facilitator May help you with local computer problems during the seminar.\nBut before then kindly do the following prior to the seminar:\n\nDownload and install MikTex\nDownload and install TexStudio Editor\n\n\n\n\n\n\n\nImportant\n\n\n\nFollow the steps and directions during installation. Install the basic package."
+  }
+]

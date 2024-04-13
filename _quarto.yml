@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PAS Seminar on LaTeX"
+  page-footer:
+    left: "&copy;Dr. Mutua Kilai"
+    center: "Inspired by the [Workshop Template by Crystal Lewis](https://github.com/Cghlewis/ncme-data-cleaning-workshop)"
+    right: "Built with ❤︎️ and [Quarto](https://quarto.org/)."
+  sidebar:
+    background: "#7d7fe9"
+    logo: "images/logo.png"
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: requirements.qmd
+        text: Requirements
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
