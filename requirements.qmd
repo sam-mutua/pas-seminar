@@ -2,6 +2,7 @@
 title: "Requirements for the Seminar"
 ---
 
+## Installation
 
 A great part of this seminar will be conducted in [Overleaf Environment](https://www.overleaf.com/). This will ensure that we are having the latest and updated packages. It is also beneficial for collaboration work. 
 
@@ -18,3 +19,17 @@ But before then kindly do the following prior to the seminar:
 ::: callout-important
 Follow the steps and directions during installation. Install the basic package.
 :::
+
+
+## Links on Learning to Write in LaTeX
+
+- [Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+- [The Not so Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
+
+
+- [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX)
+
+- [Getting Started with TeX, LaTeX and Friends](https://www.tug.org/begin.html)
+
+- [Getting to Grips with LaTeX](https://www.andy-roberts.net/latex/)
